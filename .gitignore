@@ -2,3 +2,5 @@
 *.rar
 *.txt
 MNIST_data
+*.doc
+*.docx
